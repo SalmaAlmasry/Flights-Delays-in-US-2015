@@ -6,4 +6,4 @@ Hence it is a tableau project it was best to upload to tableau public and share 
 
 All explanation and links can be found in [data visualization project.pdf file](https://github.com/SalmaAlmasry/Flights-Delays-in-US-2015/blob/main/Data%20Visualization%20Project.pdf)
 
-The Dataset can be found an downloaded from [here](https://www.kaggle.com/datasets/usdot/flight-delays)
+The dataset can be found an downloaded from [here](https://www.kaggle.com/datasets/usdot/flight-delays)
